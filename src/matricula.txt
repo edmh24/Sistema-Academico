@@ -1,0 +1,2 @@
+MODULO DE MATRICULA
+El sistema permite registrar la matricula de un estudiante en las asignaturas seleccionadas.
