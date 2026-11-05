@@ -1,2 +1,3 @@
 MODULO DE MATRICULA
 El sistema permite registrar la matricula de un estudiante en las asignaturas seleccionadas.
+Validacion: antes de registrar la matricula, verificar que el estudiante haya aprobado los prerrequisitos de cada asignatura.

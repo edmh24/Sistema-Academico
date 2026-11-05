@@ -1,1 +1,2 @@
 RF-01: El sistema permitira registrar la matricula de un estudiante.
+RF-02: El sistema validara los prerrequisitos antes de registrar la matricula.
